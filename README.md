@@ -1,3 +1,3 @@
 in src/pages/home
 
-copy paste
+copy paste# ionic3-calendar
